@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-number-input",
+  "version": "1.0.0",
+  "description": "![Screenshot](screenshot.png \"bootstrap-spin.js\")",
+  "main": "bootstrap-number-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddavydov/bootstrap-number-input.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddavydov/bootstrap-number-input/issues"
+  },
+  "homepage": "https://github.com/ddavydov/bootstrap-number-input#readme"
+}
